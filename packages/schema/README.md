@@ -1,0 +1,1 @@
+# Lumenis AI Components Schema
